@@ -2,7 +2,7 @@
 My first repository.
 ** The Walking Dead**
 #Rick's plot
-## Best char Daryl Dixon
+## Best char Daryl Dixon for me
 ### S10 Best
 1. The Walking Dead
 2. Fear of the Walking Dead
