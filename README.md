@@ -4,6 +4,7 @@ My first repository.
 #Rick's plot
 ## Best char Daryl Dixon for me
 ### Best Season is S10 
+*Orderlist
 1. The Walking Dead
 2. Fear of the Walking Dead
 3. The Walking Dead: World Beyond
